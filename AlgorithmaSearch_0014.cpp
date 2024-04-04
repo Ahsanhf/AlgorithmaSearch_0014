@@ -17,3 +17,8 @@ void input()
             cout << "\nArray should have minimun 1 dan maximum 20 elements.\n\n";
     }
 }
+void LinearSearch()
+{
+    char ch;
+    int ctr;
+    int item;
