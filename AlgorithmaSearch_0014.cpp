@@ -58,3 +58,5 @@ int main()
 {
     input();
     LinearSearch();
+    display();
+}
