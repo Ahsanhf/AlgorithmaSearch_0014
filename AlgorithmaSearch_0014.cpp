@@ -22,3 +22,6 @@ void LinearSearch()
     char ch;
     int ctr;
     int item;
+    do
+    {
+        cout << "\nEnter the element you want to search: "; //step 1
